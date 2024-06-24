@@ -1,0 +1,13 @@
+.search-key-item{
+    margin: 15px;
+
+
+}
+.search-key-button{
+    background-color: transparent;
+    color:white;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
